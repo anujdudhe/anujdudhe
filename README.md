@@ -118,10 +118,10 @@
 
 ### 📬 Connect With Me
 
-- 📧 Email: [yogendrabhange@gmail.com](mailto:yogendrabhange@gmail.com)  
-- 🌐 Portfolio: [yyogendra-portfolio.netlify.app](https://yyogendra-portfolio.netlify.app/)  
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/yogendra-27-bhange)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/yogendra-bhange)
+- 📧 Email: [yogendrabhange@gmail.com](mailto:anujdudhe01@gmail.com)  
+- 🌐 Portfolio:   
+- 🔗 GitHub: [yogendra-27-bhange](https://github.com/anujdudhe)  
+- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/anujdudhe)
 
 ---
 
