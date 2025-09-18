@@ -97,11 +97,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdudhe&layout=compact&theme=tokyonight)
-
----
 ## 📊 Updated GitHub Stats
 
 <p align="left">
