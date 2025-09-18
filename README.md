@@ -89,11 +89,7 @@
     </td>
   </tr>
 </table>
----
 
-
-
-📂 More projects → [View All Repos](https://github.com/yogendra-27-bhange?tab=repositories)
 
 ---
 
