@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anuj Dudhe</h1>
-<h3 align="center">An IT student building real-world projects with code.</h3>
+<h3 align="center">💻 IT Student | 🚀 Full-Stack Developer in Progress | 🤖 AI Enthusiast</h3>
+<p align="center">
+  ✨ Turning ideas into powerful digital solutions.  
+  <br>
+  ⚡ Exploring tech, building projects, and learning every single day.
+</p>
 
 <p align="center">
   <a href="mailto:yogendrabhange@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,11 +16,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Diploma student at Government Polytechnic, Nagpur (2023–26)  
-- 💡 Passionate about building real-world apps with Python, C++, Flask & Frontend  
-- 🧠 Exploring AI Assistants, **Firebase, and Full-Stack Development  
-- 🌱 Currently improving: Next.js, TypeScript, Tailwind, and APIs  
-- ⚡ Fun fact: I love turning ideas into working code.
+- 🎓 Diploma student at **Government Polytechnic, Nagpur (2023–26)**  
+- 💡 Passionate about crafting **real-world web apps** using **Python, Flask, and React**  
+- 🔍 Currently exploring **AI assistants, Firebase, and full-stack development**  
+- 🌱 Improving skills in **Next.js, TypeScript, Tailwind CSS, and APIs**  
+- 🧠 I love blending creativity with logic to build meaningful digital products  
+- ⚡ *"Every project I build starts as a dream — and ends as deployed code."*
 
 ---
 
@@ -118,10 +124,10 @@
 
 ### 📬 Connect With Me
 
-- 📧 Email: [yogendrabhange@gmail.com](mailto:anujdudhe01@gmail.com)  
+- 📧 Email: [anujdudhe01@gmail.com](mailto:anujdudhe01@gmail.com)  
 - 🌐 Portfolio:   
-- 🔗 GitHub: [yogendra-27-bhange](https://github.com/anujdudhe)  
-- 💼 LinkedIn: [Yogendra Bhange](https://www.linkedin.com/in/anujdudhe)
+- 🔗 GitHub: [Anuj_Dudhe](https://github.com/anujdudhe)  
+- 💼 LinkedIn: [Anuj Dudhe](https://www.linkedin.com/in/anujdudhe)
 
 ---
 
